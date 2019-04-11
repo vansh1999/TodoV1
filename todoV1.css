@@ -1,0 +1,82 @@
+body{
+    
+    background-repeat: no-repeat;
+    background-image: linear-gradient(#48c6ef , #6f86d6);
+    background-size: cover;
+    height: 750px;
+    width: 100%;
+}
+
+
+#add-item{
+    border-radius: 18px;
+    background: rgb(169, 236, 227);
+    padding: 20px; 
+    width: 320px;
+    height: 35px;   
+    font-size: 37px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    size: 40px;
+    font: 
+    
+}
+
+
+.head-tag{
+    font-size: 50px;
+    color : green;
+    font-family:Andale Mono, monospace;
+    font-weight: 100;
+}
+
+.center{
+    margin-top: 10%;
+    margin-left:10%;
+}
+
+#add-button {
+    position: relative;
+    background-color: #4CAF50;
+    border: none;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: 12px;
+  }
+  #remove-button {
+    position: relative;
+    background-color: rgb(219, 66, 66);
+    border: none;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: 12px;
+  }
+
+/* list here */
+
+
+#todo-list{
+    font-size: 40px;
+    margin-left: 10%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color : green;
+    font-weight: bold;
+    }
+    
+    
